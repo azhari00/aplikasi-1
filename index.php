@@ -1,3 +1,3 @@
 <?php 
 
-echo "Halo kafekoding";
+echo "Hi, kafekoding"; // Halo kafekoding
